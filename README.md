@@ -47,6 +47,14 @@ The Power BI report contains two main pages:
 
 ### Overview
 
+![Power BI Overview](screenshots/power-bi-overview.png)
+
+### Geography & Products
+
+![Power BI Geography and Products](screenshots/power-bi-geography-products.png)
+
+### Overview
+
 Provides a high-level overview of the retail data using KPI cards and multiple revenue and customer visualizations.
 
 ### Geography & Products
