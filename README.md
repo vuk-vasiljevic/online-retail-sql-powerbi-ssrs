@@ -87,3 +87,20 @@ ssrs/
 
 screenshots/
     Dashboard and report previews
+
+## Dataset
+
+The project uses an online retail transactional dataset containing invoice, product, quantity, price, customer, country, and transaction date information.
+
+The raw dataset is not included in this repository.
+
+## Notes
+
+SSRS report data sources use a local Microsoft SQL Server instance and may need to be reconfigured before the reports can be executed on another computer.
+
+## Author
+
+Vuk Vasiljević
+
+Faculty of Organizational Sciences  
+University of Belgrade
